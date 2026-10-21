@@ -1,0 +1,23 @@
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências, caso utilizemos Node.js futuramente
+node_modules/
+
+# Configurações privadas
+.env
+.env.local
+
+# Arquivos de teste e cobertura
+coverage/
